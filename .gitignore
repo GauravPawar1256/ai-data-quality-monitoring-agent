@@ -6,4 +6,3 @@ __pycache__/
 .streamlit/secrets.toml
 reports/*
 !reports/.gitkeep
-.streamlit/secrets.toml

@@ -1,13 +1,10 @@
 
+streamlit
 pandas
 numpy
-streamlit
 matplotlib
-seaborn
-scikit-learn
-sqlalchemy
 pymysql
 python-dotenv
-openpyxl
 google-genai
-python-dotenv
+openpyxl
+scikit-learn
